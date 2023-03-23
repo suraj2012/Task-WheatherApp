@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wheatherapp/static/css/main.69b4acdb.css",
+    "main.js": "/wheatherapp/static/js/main.48f519af.js",
+    "static/media/bg.jpg": "/wheatherapp/static/media/bg.35eed8de9cce8ae78af3.jpg",
+    "index.html": "/wheatherapp/index.html",
+    "main.69b4acdb.css.map": "/wheatherapp/static/css/main.69b4acdb.css.map",
+    "main.48f519af.js.map": "/wheatherapp/static/js/main.48f519af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b4acdb.css",
+    "static/js/main.48f519af.js"
+  ]
+}
